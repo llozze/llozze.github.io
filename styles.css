@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2{
 	font-size: 30px;
-	color: #324a57;
+	color: #ffc551;
 }
 
 h3{
@@ -275,17 +275,17 @@ header .titulos{
 }
 
 .iconbox{
-	background: #fff;
+	background: #ffc551;
 	border-bottom: 1px solid #ffc551;
 	text-align: center;
-	padding: 40px 20px;
+	padding: 20px 20px;
 	margin: 0 0 20px;
 }
 
 .iconbox-icon {
 	margin: 0 0 15;
 	font-size: 32px;
-	color: #324a57;
+	color: #1e3846;
 }
 
 .iconbox-tittle {
@@ -293,12 +293,17 @@ header .titulos{
 	padding: 0;
 }
 
+.iconbox h4 p {
+	color: #1e3846;
+} 
+
 #services p {
 	font-size: 16px;
+	color: #1e3846;
 }
 
 #services span {
-	color: #324a57;
+	color: #1e3846;
 }
 
 /* ----------  SERVICES  -------------*/
