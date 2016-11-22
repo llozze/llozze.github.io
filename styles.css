@@ -45,11 +45,15 @@ h2{
 
 h3{
 	font-size: 24px;
+	color: #9db6c3;
+	font-weight: 300;
 }
 
 h4 {
 	color: #1e3846;
 }
+
+
 
 .text-center {
 	margin-bottom: 40px;
@@ -342,6 +346,10 @@ header .titulos{
 
 #works {
 	background-color: #000;
+}
+
+.sub-tittle {
+	color: #9db6c3;
 }
 
 .hovereffect {
