@@ -244,6 +244,8 @@ h4 {
 	filter: alpha(opacity=0)
 }
 
+
+
 header .titulos{
 	position: absolute;
 	right: 0;
@@ -254,6 +256,8 @@ header .titulos{
 	margin-bottom: 60px;
 	
 }
+
+
 
 .titulos mark {
 	margin-top: 150px;
@@ -383,7 +387,7 @@ header .titulos{
 }
 
 .hovereffect:hover img {
-	filter: brightness(0.5);
+	filter: brightness(0.3);
 }
 
 .hovereffect h2 {
